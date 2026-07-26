@@ -28,10 +28,28 @@ El análisis se ejecutó siguiendo un flujo modular donde cada etapa aportó una
 
 ---
 
-## 📊 4. Hallazgos Principales e Impacto Operativo
-* **Validación de Confianza:** Se estandarizaron las bases transaccionales primarias, garantizando que la dirección cuente con reportes libres de sesgo por datos duplicados o nulos.
-* **Optimización de la Conversión:** La detección analítica del mayor punto de abandono (*drop-off*) en el funnel de compra permitió proponer acciones concretas de rediseño de interfaz, minimizando la fricción en el checkout del usuario.
-* **Estrategia basada en Evidencia:** La combinación de pruebas de hipótesis estadísticas (A/B Testing) y análisis de cohortes en SQL blindó la toma de decisiones comerciales, asegurando que los recursos de marketing se enfoquen en los segmentos y cambios de producto de mayor rentabilidad demostrada.
+## 📊 4. Análisis Estratégico RappiPlus (Metodología C-F-I)
+
+* **Desempeño Financiero y Rentabilidad**
+Contexto: Se analizaron los ingresos generados frente a la inversión en marketing y costos de productos para el periodo de enero a junio.
+
+Hallazgo (Finding): El Ingreso Total asciende a $49,095,138. El gasto en marketing representa apenas el 5.5% de los ingresos totales ($2,871,844).
+
+Insight: El modelo de RappiPlus es altamente rentable. Existe un margen significativo para incrementar la inversión en marketing (especialmente en canales de búsqueda pagada que hoy representan el 36% del gasto) para capturar una mayor cuota de mercado sin comprometer la utilidad.
+
+* **Dinámica de Producto y Categoría**
+Contexto: Evaluación del catálogo de productos para identificar motores de volumen vs. motores de margen.
+
+Hallazgo (Finding): La Laptop-gaming-16gb es el producto estrella en facturación con $12,770 es proporcionalmente inferior a productos de menor costo como la Blender-xl-red o Vacuum-pro-black que superan los $18,000 en ganancia bruta.
+
+Insight: Tenemos una dependencia crítica de la categoría Electrónica para generar volumen. Se recomienda una estrategia de cross-selling hacia Hogar y Moda, donde los productos (como licuadoras y aspiradoras) tienen un margen de contribución superior y ayudan a diversificar el riesgo de la cartera.
+
+* **Comportamiento de Ventas y Estacionalidad**
+Contexto: Análisis de la tendencia de ventas mensual para identificar picos de demanda.
+
+Hallazgo (Finding): Se observa un pico extraordinario en febrero con $15,963,635, seguido de una caída pronunciada en marzo y abril, recuperándose hacia mayo y junio.
+
+Insight: La volatilidad en marzo y abril sugiere una sensibilidad alta a factores externos o cambios en la pauta publicitaria. Debemos estabilizar la frecuencia de compra mediante promociones exclusivas de RappiPlus durante los meses de "valle" para garantizar un flujo de caja constante.
 
 ---
 
