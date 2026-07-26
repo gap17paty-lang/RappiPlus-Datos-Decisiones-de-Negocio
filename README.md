@@ -38,4 +38,4 @@ El análisis se ejecutó siguiendo un flujo modular donde cada etapa aportó una
 ## 📦 5. Entregables del Repositorio
 * `RappiPlus_Data_Quality_and_Experimentation.ipynb`: Código en Python enfocado en limpieza de datos, rentabilidad y pruebas estadísticas A/B.
 * `RappiPlus_Queries_Funnel_Cohortes.sql`: Consultas optimizadas en SQL para la extracción de embudos y matrices de retención.
-* `Enlace a Tableau Public`: *(Opcional: puedes pegar aquí el link de tu dashboard interactivo para que lo vean en vivo)*.
+* `Enlace a Tableau Public`: *https://public.tableau.com/app/profile/patricia.garcia.aguilar/viz/Proyecto_Sprint11_PatriciaGarcia/OverviewEjecutivo*.
