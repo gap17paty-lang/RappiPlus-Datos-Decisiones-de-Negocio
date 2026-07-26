@@ -36,7 +36,7 @@ Contexto: Se analizaron los ingresos generados frente a la inversión en marketi
 
 Hallazgo (Finding): El Ingreso Total asciende a $49,095,138. El gasto en marketing representa apenas el 5.5% de los ingresos totales ($2,871,844).
 
-Insight: El modelo de RappiPlus es altamente rentable. Existe un margen significativo para incrementar la inversión en marketing (especialmente en canales de búsqueda pagada que hoy representan el 36% del gasto) para capturar una mayor cuota de mercado sin comprometer la utilidad.
+Recomendación: El modelo de RappiPlus es altamente rentable. Existe un margen significativo para incrementar la inversión en marketing (especialmente en canales de búsqueda pagada que hoy representan el 36% del gasto) para capturar una mayor cuota de mercado sin comprometer la utilidad.
 
 * **Dinámica de Producto y Categoría**
 
@@ -44,7 +44,7 @@ Contexto: Evaluación del catálogo de productos para identificar motores de vol
 
 Hallazgo (Finding): La Laptop-gaming-16gb es el producto estrella en facturación con $12,770 es proporcionalmente inferior a productos de menor costo como la Blender-xl-red o Vacuum-pro-black que superan los $18,000 en ganancia bruta.
 
-Insight: Tenemos una dependencia crítica de la categoría Electrónica para generar volumen. Se recomienda una estrategia de cross-selling hacia Hogar y Moda, donde los productos (como licuadoras y aspiradoras) tienen un margen de contribución superior y ayudan a diversificar el riesgo de la cartera.
+Recomendación: Tenemos una dependencia crítica de la categoría Electrónica para generar volumen. Se recomienda una estrategia de cross-selling hacia Hogar y Moda, donde los productos (como licuadoras y aspiradoras) tienen un margen de contribución superior y ayudan a diversificar el riesgo de la cartera.
 
 * **Comportamiento de Ventas y Estacionalidad**
 
@@ -52,7 +52,7 @@ Contexto: Análisis de la tendencia de ventas mensual para identificar picos de 
 
 Hallazgo (Finding): Se observa un pico extraordinario en febrero con $15,963,635, seguido de una caída pronunciada en marzo y abril, recuperándose hacia mayo y junio.
 
-Insight: La volatilidad en marzo y abril sugiere una sensibilidad alta a factores externos o cambios en la pauta publicitaria. Debemos estabilizar la frecuencia de compra mediante promociones exclusivas de RappiPlus durante los meses de "valle" para garantizar un flujo de caja constante.
+Recomendación: La volatilidad en marzo y abril sugiere una sensibilidad alta a factores externos o cambios en la pauta publicitaria. Debemos estabilizar la frecuencia de compra mediante promociones exclusivas de RappiPlus durante los meses de "valle" para garantizar un flujo de caja constante.
 
 ---
 
